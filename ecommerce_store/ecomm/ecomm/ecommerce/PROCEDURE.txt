@@ -1,0 +1,13 @@
+
+LOGIN PANEL FOR USER AND ADMIN IS SAME
+Username: admin@admin.com
+Password: password
+
+USER LOGIN:
+
+Username: harry@den.com
+Password: code0
+
+
+
+GOTO SQL PHP ADMIN PANEL AND CREATE A DATABASE NAMED "ecomm" AND IMPORT SQL FIL;E FROM DATABASE FOLDER
